@@ -1,0 +1,11 @@
+{
+  "item.tpmi.pokeball" : "Pokeball",
+  "item.tpmi.greatball" : "Greatball",
+  "item.tpmi.ultraball" : "Ultraball",
+  "item.tpmi.pokeball_lid" : "Pokeball Lid",
+  "item.tpmi.standard_base" : "Standard Base",
+
+  "itemGroup.pokeballs_tab" : "Pokeballs",
+
+  "block.tpmi.pokeblock" : "PokeBlock"
+}
